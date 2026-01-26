@@ -1,10 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=headerr"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6:6B46C1&height=65&section=header"/>
 </div>
 
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zoheir+Hassoun!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zoheir+Hassoun!;&color=8B5CF6&background=FFFFFF00" />
 </div>
 
 <div align="center">
@@ -126,10 +125,11 @@
   </a>
 </div>
 
----
 <div align="center">
   <img src="https://i.ibb.co/4ZxpSVRF/banner.png" alt="Zoheir Hassoun - Web & Automation Developer" />
 </div>
+
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
