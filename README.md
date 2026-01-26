@@ -1,41 +1,136 @@
-<h1 align="center">Hi 👋, I'm Zoheir Hassoun</h1>
-<h3 align="center">A Talented Frontend & Automation developer from Sudan</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=headerr"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zoheirhassoun&label=Profile%20views&color=0e75b6&style=flat" alt="zoheirhassoun" /> </p>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zoheir+Hassoun!;" />
+</div>
 
-- 🔭 I’m currently working on [Go Alkhozama](goalkhozama.com)
+<div align="center">
+  <h3 align="center">🚀 Frontend & Automation Developer from Sudan</h3>
+</div>
 
-- 🌱 I’m currently learning **Automation with Python Language**
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=zoheirhassoun&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="zoheirhassoun" />
+  <a href="https://github.com/zoheirhassoun?tab=followers">
+    <img src="https://img.shields.io/github/followers/zoheirhassoun?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub followers" />
+  </a>
+</div>
 
-- 👯 I’m looking to collaborate on **Bmad method**
+---
 
-- 🤝 I’m looking for help with **N8N Workflows**
+## 👨‍💻 About Me
 
-- 👨‍💻 All of my projects are available at [https://zoheir.netlify.app](https://zoheir.netlify.app)
+- 🔭 Currently working on **[Go Alkhozama](https://goalkhozama.com)**
 
-- 📝 I regularly write articles on [Learn Automation with python and N8N](Learn Automation with python and N8N)
+- 🌱 Learning **Automation with Python**
 
-- 💬 Ask me about **React, HTML, CSS, JS, Python, C#**
+- 👯 Looking to collaborate on **Bmad method**
 
-- 📫 How to reach me **zoheirhassoun07@gmail.com**
+- 🤝 Seeking help with **N8N Workflows**
 
-- 📄 Know about my experiences [https:zoheir.netlify.app/about](https:zoheir.netlify.app/about)
+- 👨‍💻 Portfolio: **[zoheir.netlify.app](https://zoheir.netlify.app)**
 
-- ⚡ Fun fact **I am Zico**
+- 📝 Writing articles about **Automation with Python and N8N**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/zoheirhassoun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zoheirhassoun" height="30" width="40" /></a>
-<a href="https://instagram.com/zoheirhassoun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zoheirhassoun" height="30" width="40" /></a>
-</p>
+- 💬 Ask me about **React, HTML, CSS, JavaScript, Python, C#**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+- 📫 Reach me at **zoheirhassoun07@gmail.com**
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/zoheirhassoun"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zoheirhassoun" /></a><a href="https://ko-fi.com/zoheirhassoun"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="zoheirhassoun" /></a></p><br><br>
+- 📄 Learn more: **[About Me](https://zoheir.netlify.app/about)**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zoheirhassoun&show_icons=true&locale=en&layout=compact" alt="zoheirhassoun" /></p>
+- ⚡ Fun fact: **I am Zico**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zoheirhassoun&show_icons=true&locale=en" alt="zoheirhassoun" /></p>
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/zoheirhassoun" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zoheirhassoun" height="40" width="50" />
+  </a>
+  <a href="https://instagram.com/zoheirhassoun" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zoheirhassoun" height="40" width="50" />
+  </a>
+  <a href="mailto:zoheirhassoun07@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
+---
+
+## 🛠️ Languages and Tools
+
+<div align="center">
+  <h3>Frontend Development</h3>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/>
+</div>
+
+<div align="center">
+  <h3>Backend & Automation</h3>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="50" height="50"/>
+</div>
+
+<div align="center">
+  <h3>Databases & Cloud</h3>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>
+</div>
+
+<div align="center">
+  <h3>DevOps & Tools</h3>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50"/>
+  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="50" height="50"/>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zoheirhassoun&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoheirhassoun&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=zoheirhassoun&theme=tokyonight" alt="zoheirhassoun" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zoheirhassoun&theme=tokyo-night" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+## 💝 Support
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/zoheirhassoun">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zoheirhassoun" />
+  </a>
+  <a href="https://ko-fi.com/zoheirhassoun">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="zoheirhassoun" />
+  </a>
+</div>
+
+---
+<div align="center">
+  <img src="https://i.ibb.co/4ZxpSVRF/banner.png" alt="Zoheir Hassoun - Web & Automation Developer" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</div>
