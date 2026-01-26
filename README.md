@@ -21,7 +21,17 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **[Go Alkhozama](https://goalkhozama.com)**
+<div align="justify">
+
+I'm a passionate **Frontend & Automation Developer** from Sudan, dedicated to crafting exceptional digital experiences with modern web technologies and intelligent automation solutions. With expertise in React, JavaScript, Python, and C#, I transform complex ideas into scalable, user-focused applications that drive business value.
+
+Currently working on innovative projects like **[AJ Decor](https://zoheirstore.netlify.app)**, I combine frontend excellence with backend automation capabilities to build responsive web applications and efficient workflow solutions. My journey involves continuous learning in **Python automation** and **N8N workflows**, which I actively share through articles and community engagement.
+
+Whether it's building cutting-edge web interfaces or creating intelligent automation systems, I'm always excited to tackle new challenges and collaborate on meaningful projects that make a difference.
+
+</div>
+
+- 🔭 Currently working on **[AJ Decor](https://zoheirstore.netlify.app)**
 
 - 🌱 Learning **Automation with Python**
 
@@ -124,6 +134,8 @@
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="zoheirhassoun" />
   </a>
 </div>
+
+---
 
 <div align="center">
   <img src="https://i.ibb.co/4ZxpSVRF/banner.png" alt="Zoheir Hassoun - Web & Automation Developer" />
