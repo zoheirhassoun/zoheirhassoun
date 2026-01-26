@@ -1,12 +1,8 @@
-![MasterHead](https://i.ibb.co/4ZxpSVRF/banner.png)(your GitHub link)
-
-
 <h1 align="center">Hi 👋, I'm Zoheir Hassoun</h1>
 <h3 align="center">A Talented Frontend & Automation developer from Sudan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zoheirhassoun&label=Profile%20views&color=0e75b6&style=flat" alt="zoheirhassoun" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zoheirhassoun" alt="zoheirhassoun" /></a> </p>
 
 - 🔭 I’m currently working on [Go Alkhozama](goalkhozama.com)
 
