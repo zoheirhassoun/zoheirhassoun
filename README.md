@@ -1,19 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:616AE5,100:BF83FC&height=70&section=header"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=520&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zoheir+Hassoun!;+I+build+systems+that+work+while+you+sleep.&color=8B5CF6&background=FFFFFF00" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=560&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zoheir+Hassoun!;+I+build+systems+that+work+while+you+sleep.&color=616AE5&background=FFFFFF00" />
 </div>
 
 <div align="center">
-  <h3 align="center">🤖 AI Automation & Full-Stack Developer · Riyadh, KSA</h3>
+  <h3 align="center">🤖 AI Automation &amp; Full-Stack Developer · Riyadh, KSA</h3>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zoheirhassoun&label=Profile%20views&color=8B5CF6&style=for-the-badge" alt="zoheirhassoun" />
+  <img src="https://komarev.com/ghpvc/?username=zoheirhassoun&label=Profile%20views&color=616AE5&style=for-the-badge" alt="zoheirhassoun" />
   <a href="https://github.com/zoheirhassoun?tab=followers">
-    <img src="https://img.shields.io/github/followers/zoheirhassoun?label=Followers&style=for-the-badge&color=8B5CF6" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/zoheirhassoun?label=Followers&style=for-the-badge&color=616AE5" alt="GitHub followers" />
   </a>
 </div>
 
@@ -44,7 +44,7 @@ My focus is simple: turn repetitive manual work into reliable automated systems 
 
 <div align="center">
   <a href="https://zoheirhassoun.com" target="blank">
-    <img src="https://img.shields.io/badge/Website-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-616AE5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://linkedin.com/in/zoheirhassoun" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -53,7 +53,7 @@ My focus is simple: turn repetitive manual work into reliable automated systems 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:contact@zoheirhassoun.com" target="blank">
-    <img src="https://img.shields.io/badge/Email-616AE5?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-BF83FC?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" />
   </a>
 </div>
 
@@ -65,8 +65,8 @@ My focus is simple: turn repetitive manual work into reliable automated systems 
   <h3>AI &amp; Automation</h3>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" height="34"/>
-  <img src="https://img.shields.io/badge/LLM%20Agents-8B5CF6?style=flat-square&logo=openai&logoColor=white" alt="llm agents" height="34"/>
+  <img src="https://img.shields.io/badge/n8n-616AE5?style=flat-square&logo=n8n&logoColor=white" alt="n8n" height="34"/>
+  <img src="https://img.shields.io/badge/LLM%20Agents-BF83FC?style=flat-square&logo=openai&logoColor=white" alt="llm agents" height="34"/>
   <img src="https://img.shields.io/badge/WhatsApp%20Business%20API-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="whatsapp api" height="34"/>
 </div>
 
@@ -95,16 +95,16 @@ My focus is simple: turn repetitive manual work into reliable automated systems 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zoheirhassoun&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoheirhassoun&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zoheirhassoun&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0b0f17&title_color=BF83FC&icon_color=616AE5&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoheirhassoun&layout=compact&langs_count=8&hide_border=true&bg_color=0b0f17&title_color=BF83FC&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=zoheirhassoun&theme=tokyonight" alt="zoheirhassoun" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=zoheirhassoun&background=0b0f17&border=30363d&stroke=30363d&ring=BF83FC&fire=BF83FC&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=616AE5&sideLabels=616AE5&dates=8b949e" alt="zoheirhassoun" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zoheirhassoun&theme=tokyo-night" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zoheirhassoun&bg_color=0b0f17&color=BF83FC&line=616AE5&point=BF83FC&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -116,10 +116,10 @@ My focus is simple: turn repetitive manual work into reliable automated systems 
 I help businesses automate customer replies, capture leads, and ship web apps that convert.
 
 <a href="https://zoheirhassoun.com">
-  <img src="https://img.shields.io/badge/Visit%20my%20website-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website" height="42" />
+  <img src="https://img.shields.io/badge/Visit%20my%20website-616AE5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website" height="42" />
 </a>
 <a href="mailto:contact@zoheirhassoun.com">
-  <img src="https://img.shields.io/badge/Get%20in%20touch-616AE5?style=for-the-badge&logo=maildotru&logoColor=white" alt="contact" height="42" />
+  <img src="https://img.shields.io/badge/Get%20in%20touch-BF83FC?style=for-the-badge&logo=maildotru&logoColor=white" alt="contact" height="42" />
 </a>
 
 </div>
@@ -131,5 +131,5 @@ I help businesses automate customer replies, capture leads, and ship web apps th
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:616AE5,100:BF83FC&height=70&section=footer"/>
 </div>
