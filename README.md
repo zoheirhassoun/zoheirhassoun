@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=560&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zoheir+Hassoun!;+I+build+systems+that+work+while+you+sleep.&color=616AE5&background=FFFFFF00" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=32&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;I'm+Zoheir+Hassoun!;I+build+systems+that+work+while+you+sleep.&color=616AE5&background=FFFFFF00" />
 </div>
 
 <div align="center">
@@ -127,7 +127,7 @@ I help businesses automate customer replies, capture leads, and ship web apps th
 ---
 
 <div align="center">
-  <img src="https://i.ibb.co/4ZxpSVRF/banner.png" alt="Zoheir Hassoun - AI Automation & Full-Stack Developer" />
+  <img src="https://raw.githubusercontent.com/zoheirhassoun/zoheirhassoun/main/banner.png" alt="Zoheir Hassoun - AI Automation & Full-Stack Developer" />
 </div>
 
 <div align="center">
